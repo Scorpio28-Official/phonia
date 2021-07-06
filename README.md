@@ -12,10 +12,6 @@ $ termux-setup-storage
 
 $ pkg install -y git
 
-$ pkg install -y python
-
-$ pkg install -y python2
-
 $ git clone https://github.com/Scorpio28-Official/phonia
 
 $ cd phonia
