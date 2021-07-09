@@ -26,3 +26,10 @@ $ ./phonia.sh
 #### Hasta aquí, ya hemos instalado correctamente la herramienta, para ejecutarla debemos usar el siguiente comando combinado con el número telefónico de la víctima sin el (+), Ejemplo:
 
 $ python phonia -p 593999433835
+
+### Captura Digitos Censurados
+<p align="center">
+	<img src="https://i.imgur.com/4s9V34R.jpg" width="600px">
+</p>
+
+#### El Mal Uso Es Responsabilidad de Quien La Utilice...
